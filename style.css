@@ -1,0 +1,21 @@
+button{
+    height: 40px;
+    width: 120px;
+    color: black;
+    background-color: blue;
+    align-items: end;
+}
+button:hover{
+    cursor: pointer;
+    color: white;
+    background-color:black;
+}
+.dark{
+    background-color: black;
+    color: white;
+    
+}
+.light{
+    background-color: white;
+    color: black;
+}
